@@ -1,0 +1,35 @@
+commit b0ff1e44699f69093d85893ff1c23457d2f750ec
+Author: r3a4 <racoronanunez@gmail.com>
+Date:   Tue Sep 28 12:02:22 2021 -0600
+
+    Changed the color of the cat to blue, and changed the color of the eyes and their dimension
+
+commit 0fc98377ee17429633a940042ff1c080d4669417
+Author: bgranmoeMines <bgranmoe@mines.edu>
+Date:   Tue Sep 28 11:57:30 2021 -0600
+
+    Modified position of cat, and changed cat from black to cyan.
+
+commit 78d7eddcdd7856bd1c9f4219f473d31a6a66f181
+Author: bgranmoeMines <bgranmoe@mines.edu>
+Date:   Tue Sep 28 11:43:54 2021 -0600
+
+    Ben's commit that is fully working
+
+commit 6435c48a77832468da664a48927b71f19eadb19e
+Author: r3a4 <racoronanunez@gmail.com>
+Date:   Tue Sep 28 11:31:32 2021 -0600
+
+    Second commit
+
+commit 7143e4f6310fe88a9e633970f020e8e95e968ba5
+Author: Raymundo Corona Nunez <rcoronanunez@mines.edu>
+Date:   Tue Sep 28 11:29:34 2021 -0600
+
+    Second commit
+
+commit ee05b60be08b8e84bf7889d13e5a9b2ccae7fe40
+Author: Raymundo Corona Nunez <rcoronanunez@mines.edu>
+Date:   Tue Sep 28 11:18:49 2021 -0600
+
+    First commit
